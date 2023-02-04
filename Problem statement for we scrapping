@@ -1,0 +1,15 @@
+Web scraping using Python API
+
+
+Save the following barcode IDs (Universal Product Code) in a text file:
+685450116442
+700596003606
+792850892248
+792850809994
+792850889996
+792850850996
+Write a program (preferably in Python) that lookups the barcode values from the text file. Lookup product information for each bar code in a UPC database - Bar Code Spider
+Save all product information onto a csv file. 
+If a new product code is added to the file, the program should automatically lookup the product from the UPC database and append product information into the CSV file. 
+Stress test your program before submission. 
+Enlist the limitations of the program you are submitting
